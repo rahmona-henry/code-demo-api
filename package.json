@@ -1,0 +1,26 @@
+{
+  "name": "code-demo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmona-henry/code-demo-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmona-henry/code-demo-api/issues"
+  },
+  "homepage": "https://github.com/rahmona-henry/code-demo-api#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "handlebars": "^4.0.5",
+    "request": "^2.72.0",
+    "twitter": "^1.2.5"
+  }
+}
